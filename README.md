@@ -71,6 +71,6 @@ The application connects to Ollama running locally on port 11434. Make sure:
 ```
 src/                   - Application code (main.py, ai.py, auth.py)
 docs/                  - Documentation
-docker-compose.yml     - build the for the docker network and run the
+docker-compose.yml     - build the iamge for the docker network and run the containers
 Dockerfile             - image setup
 ```
